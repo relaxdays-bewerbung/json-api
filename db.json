@@ -1,0 +1,132 @@
+{
+  "skat": [
+    {
+      "wert": "7",
+      "farbe": "Schellen"
+    },
+    {
+      "wert": "8",
+      "farbe": "Schellen"
+    },
+    {
+      "wert": "9",
+      "farbe": "Schellen"
+    },
+    {
+      "wert": "10",
+      "farbe": "Schellen"
+    },
+    {
+      "wert": "U",
+      "farbe": "Schellen"
+    },
+    {
+      "wert": "O",
+      "farbe": "Schellen"
+    },
+    {
+      "wert": "K",
+      "farbe": "Schellen"
+    },
+    {
+      "wert": "A",
+      "farbe": "Schellen"
+    },
+    {
+      "wert": "7",
+      "farbe": "Rot"
+    },
+    {
+      "wert": "8",
+      "farbe": "Rot"
+    },
+    {
+      "wert": "9",
+      "farbe": "Rot"
+    },
+    {
+      "wert": "10",
+      "farbe": "Rot"
+    },
+    {
+      "wert": "U",
+      "farbe": "Rot"
+    },
+    {
+      "wert": "O",
+      "farbe": "Rot"
+    },
+    {
+      "wert": "K",
+      "farbe": "Rot"
+    },
+    {
+      "wert": "A",
+      "farbe": "Rot"
+    },
+    {
+      "wert": "7",
+      "farbe": "Grün"
+    },
+    {
+      "wert": "8",
+      "farbe": "Grün"
+    },
+    {
+      "wert": "9",
+      "farbe": "Grün"
+    },
+    {
+      "wert": "10",
+      "farbe": "Grün"
+    },
+    {
+      "wert": "U",
+      "farbe": "Grün"
+    },
+    {
+      "wert": "O",
+      "farbe": "Grün"
+    },
+    {
+      "wert": "K",
+      "farbe": "Grün"
+    },
+    {
+      "wert": "A",
+      "farbe": "Grün"
+    },
+    {
+      "wert": "7",
+      "farbe": "Eichel"
+    },
+    {
+      "wert": "8",
+      "farbe": "Eichel"
+    },
+    {
+      "wert": "9",
+      "farbe": "Eichel"
+    },
+    {
+      "wert": "10",
+      "farbe": "Eichel"
+    },
+    {
+      "wert": "U",
+      "farbe": "Eichel"
+    },
+    {
+      "wert": "O",
+      "farbe": "Eichel"
+    },
+    {
+      "wert": "K",
+      "farbe": "Eichel"
+    },
+    {
+      "wert": "A",
+      "farbe": "Eichel"
+    }
+  ]
+}
