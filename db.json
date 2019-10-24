@@ -1,6 +1,10 @@
 {
-  "items/1": {
-    "test": "test123"
+  "items?id=1": {
+    "id": 1,
+    "name": "name 1",
+    "description": "description text 1",
+    "created": 1,
+    "createdBy": "inge"
   },
   "items": {
     "1": {
