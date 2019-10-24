@@ -1,53 +1,76 @@
 {
-  "rights": {
-    "inge": [
-      "get",
-      "post",
-      "delete"
-    ],
-    "jonas": [
-      "get"
+  "items": { 
+    "page=1": [
+      {
+        "id": 0,
+        "name": "name 0",
+        "description": "description text 0",
+        "created": 0,
+        "createdBy": "inge"
+      },
+      {
+        "id": 1,
+        "name": "name 1",
+        "description": "description text 1",
+        "created": 1,
+        "createdBy": "inge"
+      },
+      {
+        "id": 2,
+        "name": "name 2",
+        "description": "description text 2",
+        "created": 2,
+        "createdBy": "inge"
+      },
+      {
+        "id": 3,
+        "name": "name 3",
+        "description": "description text 3",
+        "created": 3,
+        "createdBy": "inge"
+      },
+      {
+        "id": 4,
+        "name": "name 4",
+        "description": "description text 4",
+        "created": 4,
+        "createdBy": "inge"
+      },
+      {
+        "id": 5,
+        "name": "name 5",
+        "description": "description text 5",
+        "created": 5,
+        "createdBy": "inge"
+      },
+      {
+        "id": 6,
+        "name": "name 6",
+        "description": "description text 6",
+        "created": 6,
+        "createdBy": "inge"
+      },
+      {
+        "id": 7,
+        "name": "name 7",
+        "description": "description text 7",
+        "created": 7,
+        "createdBy": "inge"
+      },
+      {
+        "id": 8,
+        "name": "name 8",
+        "description": "description text 8",
+        "created": 8,
+        "createdBy": "inge"
+      },
+      {
+        "id": 9,
+        "name": "name 9",
+        "description": "description text 9",
+        "created": 9,
+        "createdBy": "inge"
+      }
     ]
-  },
-  "categories": [
-    {
-      "name": "Computer Games",
-      "children": [
-        {
-          "name": "Offline Games",
-          "children": [
-            {
-              "name": "Role Playing Games",
-              "children": [
-                {
-                  "name": "Single Player RPG"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Online Games",
-          "children": [
-            {
-              "name": "Role Playing Games",
-              "children": [
-                {
-                  "name": "MMO RPG"
-                },
-                {
-                  "name": "Single Player RPG"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Books",
-      "children": [
-      ]
-    }
-  ]
+  }
 }
