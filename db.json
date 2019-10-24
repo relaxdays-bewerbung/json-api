@@ -1,5 +1,9 @@
 {
-  "master": "test",
+  "master": [
+    1,
+    2,
+    3
+  ],
   "items": {
     "1": {
       "id": 1,
