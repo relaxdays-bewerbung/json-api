@@ -1,12 +1,5 @@
 {
   "items": {
-    "0": {
-      "id": 0,
-      "name": "name 0",
-      "description": "description text 0",
-      "created": 0,
-      "createdBy": "inge"
-    },
     "1": {
       "id": 1,
       "name": "name 1",
