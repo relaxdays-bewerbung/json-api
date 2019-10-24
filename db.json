@@ -8,5 +8,46 @@
     "jonas": [
       "get"
     ]
-  }
+  },
+  "categories": [
+    {
+      "name": "Computer Games",
+      "children": [
+        {
+          "name": "Offline Games",
+          "children": [
+            {
+              "name": "Role Playing Games",
+              "children": [
+                {
+                  "name": "Single Player RPG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Online Games",
+          "children": [
+            {
+              "name": "Role Playing Games",
+              "children": [
+                {
+                  "name": "MMO RPG"
+                },
+                {
+                  "name": "Single Player RPG"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Books",
+      "children": [
+      ]
+    }
+  ]
 }
